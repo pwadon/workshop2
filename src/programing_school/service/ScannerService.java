@@ -1,4 +1,4 @@
-package programing_school;
+package programing_school.service;
 
 import java.io.File;
 import java.io.FileNotFoundException;

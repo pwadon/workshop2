@@ -1,7 +1,8 @@
-package programing_school;
+package programing_school.Controller;
 
 import programing_school.Dao.UserGroupDao;
 import programing_school.Entity.UserGroup;
+import programing_school.service.ScannerService;
 
 import java.util.List;
 

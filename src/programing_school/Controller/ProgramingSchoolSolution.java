@@ -1,4 +1,4 @@
-package programing_school;
+package programing_school.Controller;
 
 import programing_school.Dao.ExerciseDao;
 import programing_school.Dao.SolutionDao;
@@ -6,9 +6,8 @@ import programing_school.Dao.UsersDao;
 import programing_school.Entity.Users;
 import programing_school.Entity.exercise;
 import programing_school.Entity.solution;
+import programing_school.service.ScannerService;
 
-import java.nio.channels.DatagramChannel;
-import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.List;
 
